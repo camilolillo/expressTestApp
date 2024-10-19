@@ -7,7 +7,7 @@ const pool = new Pool({
     host: 'localhost',
     user: 'postgres',
     password: '123',
-    database: 'apideprueba',
+    database: 'apitestdb',
     port: '5432'
 });
 // Configura los detalles de la conexión a la base de datos PostgreSQL (host, usuario, contraseña, base de datos, puerto)
